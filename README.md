@@ -63,10 +63,10 @@ alime/
     │   ├── reboot.scss
     │   ├── spacing.scss
     │   ├── style.scss
-    ├── about.html
+    ├── game-jams.html
     ├── blog.html
     ├── contact.html
-    ├── gallery.html
+    ├── projects.html
     ├── index.html
     ├── single-blog.html
     ├── style.css
