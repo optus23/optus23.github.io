@@ -1,3 +1,6 @@
+
+Here's a display of a sample template I created for Project II. If it is not shown, download it by clicking [here](https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf?raw=true)
+<embed src="https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf" class="application/pdf" width = "100%" height="850px" />    
 /* ------------------------------------------------------
 Template Name: Marc Galvez Web
 Template Author: Marc Galvez
