@@ -1,7 +1,7 @@
 
 [here](https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf?raw=true)
 
-<embed src="/CV_Marc_Galvez_(40).pdf" class="application/pdf" width = "100%" height="850px" />    
+<embed src="KFC.jpg" class="application/img" width = "100%" height="850px" />    
 
 
 
