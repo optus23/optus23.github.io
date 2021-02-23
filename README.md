@@ -1,4 +1,12 @@
 
+[here](https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf?raw=true)
+
+<embed src="KFC.jpg" class="application/img" width = "100%" height="850px" />    
+
+
+
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
 
 /* ------------------------------------------------------
 Template Name: Marc Galvez Web
